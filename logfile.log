@@ -1,0 +1,156 @@
+2017-12-20 16:56:36,127 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 16:56:36,128 INFO  [Log] ++++++++++++++++++++ssitc001 - open browser and open url+++++++++++++++ 
+2017-12-20 16:56:36,128 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 16:56:38,811 INFO  [Log] Chrome browser opened successflly 
+2017-12-20 16:56:38,811 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 16:56:40,858 INFO  [Log] URL opened successfully 
+2017-12-20 16:56:40,906 INFO  [Log] Login page loaded 
+2017-12-20 16:56:41,040 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 16:56:41,040 INFO  [Log] ++++++++++++++++++++ssitc002 - get window handles - iteration +++++++++++++++ 
+2017-12-20 16:56:41,041 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 16:56:41,060 INFO  [Log] element sff_loginBtnText found 
+2017-12-20 16:56:45,797 INFO  [Log] element sff_usernameField found 
+2017-12-20 16:56:45,899 INFO  [Log] element sff_passwordField found 
+2017-12-20 16:56:45,990 INFO  [Log] element sff_submitBtn found 
+2017-12-20 16:56:49,210 INFO  [Log] element sff_loginDropdown found 
+2017-12-20 16:56:49,226 INFO  [Log] Dashboard loaded 
+2017-12-20 16:56:49,289 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 16:56:50,254 INFO  [Log] Default survey page loaded 
+2017-12-20 16:56:50,441 ERROR [Log] Create form step-1 popup not open 
+2017-12-20 16:57:51,802 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 16:57:51,802 INFO  [Log] ++++++++++++++++++++ssitc001 - open browser and open url+++++++++++++++ 
+2017-12-20 16:57:51,802 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 16:57:54,440 INFO  [Log] Chrome browser opened successflly 
+2017-12-20 16:57:54,440 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 16:57:56,679 INFO  [Log] URL opened successfully 
+2017-12-20 16:57:56,739 INFO  [Log] Login page loaded 
+2017-12-20 16:57:56,867 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 16:57:56,867 INFO  [Log] ++++++++++++++++++++ssitc002 - get window handles - iteration +++++++++++++++ 
+2017-12-20 16:57:56,867 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 16:57:56,890 INFO  [Log] element sff_loginBtnText found 
+2017-12-20 16:58:00,140 INFO  [Log] element sff_usernameField found 
+2017-12-20 16:58:00,228 INFO  [Log] element sff_passwordField found 
+2017-12-20 16:58:00,318 INFO  [Log] element sff_submitBtn found 
+2017-12-20 16:58:03,462 INFO  [Log] element sff_loginDropdown found 
+2017-12-20 16:58:03,479 INFO  [Log] Dashboard loaded 
+2017-12-20 16:58:03,544 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 16:58:04,284 INFO  [Log] Default survey page loaded 
+2017-12-20 16:58:04,476 ERROR [Log] Create form step-1 popup not open 
+2017-12-20 17:01:36,390 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:01:36,391 INFO  [Log] ++++++++++++++++++++ssitc001 - open browser and open url+++++++++++++++ 
+2017-12-20 17:01:36,391 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:01:39,292 INFO  [Log] Chrome browser opened successflly 
+2017-12-20 17:01:39,292 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 17:01:41,588 INFO  [Log] URL opened successfully 
+2017-12-20 17:01:41,645 INFO  [Log] Login page loaded 
+2017-12-20 17:01:41,775 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:01:41,775 INFO  [Log] ++++++++++++++++++++ssitc002 - get window handles - iteration +++++++++++++++ 
+2017-12-20 17:01:41,775 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:01:41,796 INFO  [Log] element sff_loginBtnText found 
+2017-12-20 17:01:45,027 INFO  [Log] element sff_usernameField found 
+2017-12-20 17:01:45,109 INFO  [Log] element sff_passwordField found 
+2017-12-20 17:01:45,199 INFO  [Log] element sff_submitBtn found 
+2017-12-20 17:01:48,338 INFO  [Log] element sff_loginDropdown found 
+2017-12-20 17:01:48,356 INFO  [Log] Dashboard loaded 
+2017-12-20 17:01:48,422 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 17:01:49,159 INFO  [Log] Default survey page loaded 
+2017-12-20 17:01:49,359 ERROR [Log] Create form step-1 popup not open 
+2017-12-20 17:25:34,628 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:25:34,628 INFO  [Log] ++++++++++++++++++++ssitc001 - open browser and open url+++++++++++++++ 
+2017-12-20 17:25:34,628 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:25:37,325 INFO  [Log] Chrome browser opened successflly 
+2017-12-20 17:25:37,325 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 17:25:39,687 INFO  [Log] URL opened successfully 
+2017-12-20 17:25:39,746 INFO  [Log] Login page loaded 
+2017-12-20 17:25:39,860 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:25:39,860 INFO  [Log] ++++++++++++++++++++ssitc002 - get window handles - iteration +++++++++++++++ 
+2017-12-20 17:25:39,860 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:25:39,873 INFO  [Log] element sff_loginBtnText found 
+2017-12-20 17:25:46,204 INFO  [Log] element sff_usernameField found 
+2017-12-20 17:25:46,275 INFO  [Log] element sff_passwordField found 
+2017-12-20 17:25:46,360 INFO  [Log] element sff_submitBtn found 
+2017-12-20 17:25:49,602 INFO  [Log] element sff_loginDropdown found 
+2017-12-20 17:25:49,618 INFO  [Log] Dashboard loaded 
+2017-12-20 17:25:49,667 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 17:25:50,517 INFO  [Log] Default survey page loaded 
+2017-12-20 17:25:50,708 INFO  [Log] create form step-1 popup opened 
+2017-12-20 17:53:52,229 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:53:52,230 INFO  [Log] ++++++++++++++++++++ssitc001 - open browser and open url+++++++++++++++ 
+2017-12-20 17:53:52,230 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:53:54,930 INFO  [Log] Chrome browser opened successflly 
+2017-12-20 17:53:54,930 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 17:53:57,471 INFO  [Log] URL opened successfully 
+2017-12-20 17:53:57,519 INFO  [Log] Login page loaded 
+2017-12-20 17:53:57,654 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:53:57,654 INFO  [Log] ++++++++++++++++++++ssitc002 - get window handles - iteration +++++++++++++++ 
+2017-12-20 17:53:57,655 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 17:53:57,678 INFO  [Log] element sff_loginBtnText found 
+2017-12-20 17:54:01,966 INFO  [Log] element sff_usernameField found 
+2017-12-20 17:54:02,042 INFO  [Log] element sff_passwordField found 
+2017-12-20 17:54:02,133 INFO  [Log] element sff_submitBtn found 
+2017-12-20 17:54:05,236 INFO  [Log] element sff_loginDropdown found 
+2017-12-20 17:54:05,256 INFO  [Log] Dashboard loaded 
+2017-12-20 17:54:05,317 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 17:54:06,066 INFO  [Log] Default survey page loaded 
+2017-12-20 17:54:26,390 ERROR [Log] Create form step-1 popup not open 
+2017-12-20 18:00:33,575 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:00:33,575 INFO  [Log] ++++++++++++++++++++ssitc001 - open browser and open url+++++++++++++++ 
+2017-12-20 18:00:33,575 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:00:36,183 INFO  [Log] Chrome browser opened successflly 
+2017-12-20 18:00:36,183 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 18:00:38,521 INFO  [Log] URL opened successfully 
+2017-12-20 18:00:38,576 INFO  [Log] Login page loaded 
+2017-12-20 18:00:38,699 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:00:38,699 INFO  [Log] ++++++++++++++++++++ssitc002 - get window handles - iteration +++++++++++++++ 
+2017-12-20 18:00:38,699 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:00:38,722 INFO  [Log] element sff_loginBtnText found 
+2017-12-20 18:00:41,967 INFO  [Log] element sff_usernameField found 
+2017-12-20 18:00:42,037 INFO  [Log] element sff_passwordField found 
+2017-12-20 18:00:42,120 INFO  [Log] element sff_submitBtn found 
+2017-12-20 18:00:45,821 INFO  [Log] element sff_loginDropdown found 
+2017-12-20 18:00:45,836 INFO  [Log] Dashboard loaded 
+2017-12-20 18:00:45,911 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 18:24:07,665 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:24:07,665 INFO  [Log] ++++++++++++++++++++ssitc001 - open browser and open url+++++++++++++++ 
+2017-12-20 18:24:07,665 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:24:10,260 INFO  [Log] Chrome browser opened successflly 
+2017-12-20 18:24:10,260 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 18:24:12,528 INFO  [Log] URL opened successfully 
+2017-12-20 18:24:12,602 INFO  [Log] Login page loaded 
+2017-12-20 18:24:12,737 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:24:12,737 INFO  [Log] ++++++++++++++++++++ssitc002 - get window handles - iteration +++++++++++++++ 
+2017-12-20 18:24:12,737 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:24:12,756 INFO  [Log] element sff_loginBtnText found 
+2017-12-20 18:24:16,627 INFO  [Log] element sff_usernameField found 
+2017-12-20 18:24:16,695 INFO  [Log] element sff_passwordField found 
+2017-12-20 18:24:16,780 INFO  [Log] element sff_submitBtn found 
+2017-12-20 18:24:20,082 INFO  [Log] element sff_loginDropdown found 
+2017-12-20 18:24:20,097 INFO  [Log] Dashboard loaded 
+2017-12-20 18:24:20,163 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 18:24:20,997 INFO  [Log] Default survey page loaded 
+2017-12-20 18:24:22,288 INFO  [Log] create form step-1 popup opened 
+2017-12-20 18:32:07,708 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:32:07,709 INFO  [Log] ++++++++++++++++++++ssitc001 - open browser and open url+++++++++++++++ 
+2017-12-20 18:32:07,709 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:32:10,404 INFO  [Log] Chrome browser opened successflly 
+2017-12-20 18:32:10,404 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 18:32:15,592 INFO  [Log] URL opened successfully 
+2017-12-20 18:33:18,579 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:33:18,579 INFO  [Log] ++++++++++++++++++++ssitc001 - open browser and open url+++++++++++++++ 
+2017-12-20 18:33:18,579 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:33:21,194 INFO  [Log] Chrome browser opened successflly 
+2017-12-20 18:33:21,194 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 18:33:23,968 INFO  [Log] URL opened successfully 
+2017-12-20 18:33:24,024 INFO  [Log] Login page loaded 
+2017-12-20 18:33:24,138 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:33:24,138 INFO  [Log] ++++++++++++++++++++ssitc002 - get window handles - iteration +++++++++++++++ 
+2017-12-20 18:33:24,138 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-12-20 18:33:24,156 INFO  [Log] element sff_loginBtnText found 
+2017-12-20 18:33:28,160 INFO  [Log] element sff_usernameField found 
+2017-12-20 18:33:28,217 INFO  [Log] element sff_passwordField found 
+2017-12-20 18:33:28,306 INFO  [Log] element sff_submitBtn found 
+2017-12-20 18:33:31,581 INFO  [Log] element sff_loginDropdown found 
+2017-12-20 18:33:31,596 INFO  [Log] Dashboard loaded 
+2017-12-20 18:33:31,668 INFO  [Log] +++++++++++++++END+++++++++++++++++++++++++++ 
+2017-12-20 18:33:32,440 INFO  [Log] Default survey page loaded 
+2017-12-20 18:33:35,929 INFO  [Log] create form step-1 popup opened 
